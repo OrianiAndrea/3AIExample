@@ -1,0 +1,4 @@
+git clone https://github.com/OrianiAndrea/3AIExample.git
+git add es1.txt
+git commit -m "descrizione"
+git push
